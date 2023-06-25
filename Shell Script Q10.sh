@@ -28,7 +28,4 @@ case $state_lowercase in
     main_language="Unknown"
     ;;
 esac
-
-# Display the main language
 echo "The main language of $state is $main_language."
-
